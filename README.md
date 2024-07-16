@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/leonardo-dicaprio-gif-21978827"  />
+<img align="right" height="150" src="https://ibb.co/Jz0Y8DY"  />
 
 ###
 
