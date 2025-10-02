@@ -1,3 +1,4 @@
+<h2 align="left"> 🧑‍💻 Armando Junior</h2>
 Me chamo Armando Junior, tenho 28 anos sou natural de Belém do Pará.
 Atualmente estou cursando Ciência da Computação na Universidade de Amazônia. Sou apaixonado por tecnologia e compartilho meu conhecimento atráves do meu perfil no tik tok "@armando.dev" onde dou dicas e ensino sobre programação.
 
