@@ -1,7 +1,6 @@
-<h2 align="left">Oi 👋! Meu nome é Armando Junior</h2>
- Me chamo Armando Junior, tenho 28 anos sou natural de Belém do Pará.
- Atualmente estou cursando Ciência da Computação na Universidade de Amazônia. Sou apaixonado por tecnologia e compartilho meu conhecimento atráves do meu perfil no tik tok "@armando.dev" onde dou dicas e ensino sobre programação,
-###
+Me chamo Armando Junior, tenho 28 anos sou natural de Belém do Pará.
+Atualmente estou cursando Ciência da Computação na Universidade de Amazônia. Sou apaixonado por tecnologia e compartilho meu conhecimento atráves do meu perfil no tik tok "@armando.dev" onde dou dicas e ensino sobre programação.
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArmandoJunior00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
