@@ -3,7 +3,7 @@
 **`Desenvolvedor Back-end`**
 
 Me chamo Armando Junior, tenho 28 anos sou natural de Belém do Pará.
-Atualmente estou cursando Ciência da Computação na Universidade de Amazônia. Sou apaixonado por tecnologia e compartilho meu conhecimento atráves do meu perfil no tik tok "[@armando.dev](https://www.tiktok.com/@armando.dev?lang=pt-BR)" onde dou dicas e ensino sobre programação.
+Atualmente estou cursando Ciência da Computação na Universidade da Amazônia. Sou apaixonado por tecnologia e compartilho meu conhecimento atráves do meu perfil no tik tok "[@armando.dev](https://www.tiktok.com/@armando.dev?lang=pt-BR)" onde dou dicas e ensino sobre programação.
 
 
 <div align="center">
