@@ -35,7 +35,8 @@ Atualmente estou cursando Ciência da Computação na Universidade de Amazônia.
 
 <div align="left">
   
-  <a href = "https://www.tiktok.com/@armando.dev?lang=pt-BR"><img src="https://img.shields.io/static/v1?message=tiktok&logo=tiktok&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"  /> </a>
+  <a href = "https://www.tiktok.com/@armando.dev?lang=pt-BR" target="_blank" ><img src="https://img.shields.io/static/v1?message=tiktok&logo=tiktok&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"/></a>
+  
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
